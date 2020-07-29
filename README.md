@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome
+
+I am a PhD candidate in the [Department of Political Science](https://pol.illinois.edu/) at the University of Illinois at Urbana-Champaign.
+
+Here, you will find repositories associated with my research and teaching projects.
+
+You can find more about me and my work at http://gustavodiaz.org/
 
 <!--
 **gustavo-diaz/gustavo-diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
