@@ -1,10 +1,10 @@
 ### Welcome
 
-I am a PhD candidate in the [Department of Political Science](https://pol.illinois.edu/) at the University of Illinois at Urbana-Champaign.
+I am a Postdoctoral Fellow in the [Center for Inter-American Policy and Research](http://cipr.tulane.edu) at [Tulane University](https://tulane.edu/). I study comparative politics and political methodology. I received my PhD from the [Department of Political Science](https://pol.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) in 2021.
 
 Here, you will find repositories associated with my research and teaching projects.
 
-You can find more about me and my work at http://gustavodiaz.org/
+You can find more about me and my work at https://gustavodiaz.org/
 
 <!--
 **gustavo-diaz/gustavo-diaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
