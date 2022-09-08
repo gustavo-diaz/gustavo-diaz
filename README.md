@@ -1,6 +1,9 @@
 ### Welcome
 
-I am a Postdoctoral Fellow in the [Center for Inter-American Policy and Research](http://cipr.tulane.edu) at [Tulane University](https://tulane.edu/). I study comparative politics and political methodology. I received my PhD from the [Department of Political Science](https://pol.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) in 2021.
+
+I am a Postdoctoral Fellow in the [Department of Political Science](https://www.mcmaster.ca/) at [McMaster University](https://politicalscience.mcmaster.ca/). I study comparative politics and quantitative methods.
+
+I received my PhD from the [Department of Political Science](https://pol.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) in 2021. Before joining McMaster, I was a postdoctoral fellow at the [Center for Inter-American Policy and Research](https://stonecenter.tulane.edu/cipr) at [Tulane University](https://tulane.edu/).
 
 Here, you will find repositories associated with my research and teaching projects.
 
