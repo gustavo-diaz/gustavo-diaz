@@ -1,9 +1,9 @@
 ### Welcome
 
 
-I am a Postdoctoral Fellow in the [Department of Political Science](https://www.mcmaster.ca/) at [McMaster University](https://politicalscience.mcmaster.ca/). I study comparative politics and quantitative methods.
+I am an Assistant Professor of Instruction in the [Department of Political Science](https://polisci.northwestern.edu) at [McMaster University](https://www.northwestern.edu). I teach courses on statistics, statistical programming, and computational social science.
 
-I received my PhD from the [Department of Political Science](https://pol.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/) in 2021. Before joining McMaster, I was a postdoctoral fellow at the [Center for Inter-American Policy and Research](https://stonecenter.tulane.edu/cipr) at [Tulane University](https://tulane.edu/).
+My research develops standards to navigate research design tradeoffs in the social sciences, with focus on causal inference and computational social science. My substantive work applies these ideas to questions in comparative politics and political behavior.
 
 Here, you will find repositories associated with my research and teaching projects.
 
