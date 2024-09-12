@@ -1,7 +1,7 @@
 ### Welcome
 
 
-I am an Assistant Professor of Instruction in the [Department of Political Science](https://polisci.northwestern.edu) at [McMaster University](https://www.northwestern.edu). I teach courses on statistics, statistical programming, and computational social science.
+I am an Assistant Professor of Instruction in the [Department of Political Science](https://polisci.northwestern.edu) at [Northwestern University](https://www.northwestern.edu). I teach courses on statistics, statistical programming, and computational social science.
 
 My research develops standards to navigate research design tradeoffs in the social sciences, with focus on causal inference and computational social science. My substantive work applies these ideas to questions in comparative politics and political behavior.
 
